@@ -5,11 +5,5 @@
 	<h2>THIS IS ANOTHER VERSION </h2>
 	<h3>THIS IS LAST VERSION </h3>
 	<h3>We deployed latest version of application </h3>
-	
-	
-	
-	
-	
-	
 </body>
 </html>
